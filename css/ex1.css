@@ -1,0 +1,19 @@
+body{
+    background-image: url(../images/back5.jpg);
+}
+h1{
+    text-align: center;
+    color: cyan;
+    background-color: black;
+}
+h2{
+    text-align: center;
+    color: azure;
+    background-color: black;
+}
+tr{
+    background-color: aqua;
+}
+ol{
+    background-image: url(../images/back4.jpeg);
+}
