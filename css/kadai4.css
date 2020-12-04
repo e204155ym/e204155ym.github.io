@@ -1,0 +1,23 @@
+body{
+    background-image: url(../images/back6.jpg)
+}
+.syumi{
+    color: darkorchid;
+    text-align: center;
+    background-color: darkgrey;    
+}
+.link{
+    color: #0b0bbc;
+    text-align: center;
+    background-color: pink;
+}
+.nogizaka46{
+  color: purple;
+  text-align: center;
+  background-color: aquamarine;
+}
+.saitou{
+    color: aqua;
+    text-align: center;
+    background-color: whitesmoke;
+}
