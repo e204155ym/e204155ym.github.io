@@ -1,0 +1,85 @@
+body{
+    background: rgb(255, 0, 255, 0.1);
+}
+
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
+div.title{
+    text-align: center;
+    color: white;
+    background: rgb(255, 0, 255, 0.2);
+    font-size: 30px;
+    height: 40px;
+    width: 1000px;
+    margin-bottom: 20px;
+}
+
+div.menu{
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 20px;
+    font-size: 0px;
+    height: 1000px;
+    width: 1000px;
+}
+
+div.menuitem1{
+    display: inline-block;
+    vertical-align: top;
+    height: 320px;
+    width: 250px;
+    margin-right: 100px;
+}
+
+div.menuitem2{
+    display: inline-block;
+    height: 920px;
+    width: 550px;
+    background-color: white;
+}
+
+div.item1{
+    text-align: center;
+    background: rgb(255, 255, 0, 0.2);
+    height: 300px;
+    width: 250px;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+div.image{
+    background-image: url(../images/01.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+    height: 300px;
+    width: 550px;
+}
+
+div.image2{
+    background-image: url(../images/01.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+    height: 300px;
+    width: 550px;
+}
+
+div.image3{
+    background-image: url(../images/02.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 550px;
+}
+div.footer{
+    background: rgb(100, 100, 100, 0.4);
+    color: darkblue;
+    font-size: 15px;
+    text-align: right;
+}
